@@ -1,88 +1,28 @@
 
-
 <!DOCTYPE html>
-
-
 </html>
-
-
 <head>
-
-
 <title>FIRST PROJ</title>
-
-
-</head>
-
-
+</head
 </body>
-
-
 <style>
-
-
 h1 {text-align: center;
-
-
 font-family: Times New Roman;
-
-
 Font-Size:100px;
-
-
 Color:Black}
-
-
 h12 {text-align: center;
-
-
 font-family: Times New Roman;
-
-
 Font-Size:70px;
-
-
 Color:Black}
-
-
-
-
-
-
-
 img {
-
-
 display: block;
-
-
 margin-left: auto;
-
-
 margin-right: auto;}
-
-
 </style>
-
-
 <img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBVAlBsXBJ6ioraRNUjyTypSwbICYmZCyrg&usqp=CAU" width="200" height="200">
-
-
 <h1>YAY</h1>
-
-
 <h2>FIRST PROJECT</h2>
-
-
 <body style="background-color:#ecb3ff;">
-
-
-<img src="https://cliply.co/wp-content/uploads/2021/07/452105030_HEART_DOODLES_400.gif" width="200" height="200">
-
-
+<img src="https://cliply.co/wp-content/uploads/2021/07/452105030_HEART_DOODLES_400.gif" width="200" height="200"
 </body>
-
-
 </html>
-
-
